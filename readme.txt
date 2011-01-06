@@ -4,7 +4,7 @@ Donate link: http://aaron.jorb.in/thank-you-aaron/
 Tags: custom header
 Requires at least: 3.1
 Tested up to: 3.1
-Stable tag: 0.0
+Stable tag: 0.1
 
 
 While this plugin doesn't symbolize the hope and enthusiasm of an entire generation, it does remove the ability to upload a custom header image.
