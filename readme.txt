@@ -37,6 +37,8 @@ the directory of the stable readme.txt, so in this case, `/tags/4.3/screenshot-1
 
 == Changelog ==
 
+= 0.1 =
+#blamenacin
 = 0.0 =
 * Remove theme support for custom header uploads
 
@@ -45,6 +47,8 @@ the directory of the stable readme.txt, so in this case, `/tags/4.3/screenshot-1
 
 = 0.0 =
 If you have a release earlier then 0.0, you are a better man then I
+= 0.1 =
+#blamenacin
 
 == Links ==
 
