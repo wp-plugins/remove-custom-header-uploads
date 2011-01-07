@@ -17,15 +17,30 @@ Great for allowing your choice of branded header images.
 
 == Installation ==
 
+For an automatic installation through WordPress:
+
+1. Go to the 'Add New' plugins screen in your WordPress admin area
+1. Search for 'Remove Custom Header Uploads'
+1. Click 'Install Now' and activate the plugin
+
+Or use a nifty tool by WordPress lead developer Mark Jaquith:
+
+1. Visit [this link](http://coveredwebservices.com/wp-plugin-install/?plugin=remove-custom-header-uploads) and follow the instructions.
+
+For a manual installation via FTP:
 
 1. Upload `remove-custom-header-uploads.php` to the `/wp-content/plugins/` directory
-1. Activate the plugin through the 'Plugins' menu in WordPress
-1. Sit back and enjoy a glass of whisky
+1. Activate the plugin through the 'Plugins' screen in your WordPress admin area
+
+To upload the plugin through WordPress, instead of FTP:
+
+1. Upload the downloaded zip file on the 'Add New' plugins screen (see the 'Upload' tab) in your WordPress admin area and activate.
+
+For all methods, you should end it by sitting back and enjoy a glass of whisky
 
 == Frequently Asked Questions ==
 
-= What about foo bar? =
-= What type of whisky should I have in step 3 =
+= What type of whisky should I have after I've installed the plugin? =
 
 Lately I've been enjoying rye.  Two that stand out are the High West Roundevous 16 year and Templeton.
 
